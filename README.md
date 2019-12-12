@@ -34,7 +34,6 @@ Jupyter Notebooks using Python.
 * random
 * pandas
 * seaborn
-* magic(u'matplotlib inline') ??? Not sure about this one?
 * sklearn
 
 ### How to run it:
