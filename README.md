@@ -58,8 +58,8 @@ REF:
 [3] http://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
 
 
-### How to run it:
-Please install the notebook, navigate into its directory. Then open command prompt/terminal from there and run the command jupyter notebook and this will open up a page in the browser. Click on the desired file. 
+### How to run Jupyter:
+Install Jupyter notebook, navigate into its directory. Then open command prompt/terminal from there and run the command jupyter notebook and this will open up a page in the browser. Click on the desired file. 
 Then from the Cell tab click Run All
 
 Note: Please refer to the .ipynb file for a detailed report.
