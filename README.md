@@ -36,11 +36,26 @@ Jupyter Notebooks using Python.
 * seaborn
 * sklearn
 
+### Neural Networks: 
 
-### Neural Networks: Good explanations of how to use the neural network and how it works.
+##### Background
+Neural Networks were first developed by Bernard Widrow when he was based in Stanford University in the 1950s. [1]
+Other sources place the development of Neural Networks with Warren McCullough and Walter Pitts, both researchers at the University of Chicago who moved to the Massachusetts Institute of Technology in 1952. [2]
 
+Essentially Neural Networks are method for doing machine learning and are therefore a different model than the original von Neumann computer machines which were concerned with memory and processing of information processing.  Nueral Networks allow a computer to perform a task by analysing training examples. For example, an image recognition system will have been preloaded with lots of pictures of houses, cars, builsings etc in advance so that it can create patterns that will give identify images consistently. 
 
+##### Process
+In order for Neural networks to perform, they must be trained and this is where the various nodes are organised into layers. The data moves through the nodes in one direction only. However, one node may be connected to several other nodes which are a layer underneath it which sends data to it or above it where it sends data to. All of these are interconnections and are given a number described as a 'weight'.  Once the neural network is active and the node receives the second item of data which will be given a diferent number, it is then multiplied by the weight associated with it. Both are added together to then give one number. Thresholds are used and when the  number is below a certain value, then no data is passed to the next layer. And when the number is above a certain value, the node “fires,” as in sends the number which is the result of the weighted data input forward to its connections. 
+As part of the training process, the weights and threshold get changes to ensure that they give the same results on a continuous basis.
+When there are large databases, Neural networks are powerful in forecasting events.  
 
+##### Current uses:
+Current uses of Neural networks include the following: data mining, aerospace applications, industrial robotics, medical imaging, both voice and image recognition systems. 
+
+REF: 
+[1] https://www.webopedia.com/TERM/N/neural_network.html
+[2] http://www.cs.stir.ac.uk/
+[3] http://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
 
 
 ### How to run it:
