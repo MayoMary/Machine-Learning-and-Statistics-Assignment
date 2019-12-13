@@ -36,6 +36,13 @@ Jupyter Notebooks using Python.
 * seaborn
 * sklearn
 
+
+### Neural Networks: Good explanations of how to use the neural network and how it works.
+
+
+
+
+
 ### How to run it:
 Please install the notebook, navigate into its directory. Then open command prompt/terminal from there and run the command jupyter notebook and this will open up a page in the browser. Click on the desired file. 
 Then from the Cell tab click Run All
