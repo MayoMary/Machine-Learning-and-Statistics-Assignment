@@ -53,9 +53,9 @@ When there are large databases, Neural networks are powerful in forecasting even
 Current uses of Neural networks include the following: data mining, aerospace applications, industrial robotics, medical imaging, both voice and image recognition systems. 
 
 REF: 
-[1] https://www.webopedia.com/TERM/N/neural_network.html
-[2] http://www.cs.stir.ac.uk/
-[3] http://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
+1. [1] https://www.webopedia.com/TERM/N/neural_network.html
+2. [2] http://www.cs.stir.ac.uk/
+3. [3] http://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
 
 
 ### How to run Jupyter:
