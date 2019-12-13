@@ -28,7 +28,7 @@ URL: http://lib.stat.cmu.edu/datasets/boston
 Jupyter Notebooks using Python.
 
 ### Libraries used
-* Pandas - 0.25.1
+* Pandas
 * Matplotlib
 * numpy
 * random
